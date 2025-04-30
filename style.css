@@ -18,14 +18,17 @@ header {
     font-family: 28px;
     font-weight: 600;
     color: rgba(185, 19, 19, 0.278);
+    font-size: 35px;
 }
 
 .nav-links {
     display: flex;
+    color: black;
 }
 
 .nav-links > li {
     padding: 0 15px;
+    font-size: 23px;
 }
 
 .nav-link {
@@ -59,8 +62,10 @@ body {
 }
 
 .left-sect > a {
-    font-size: 25px;
+    font-size: 30px;
     padding: 20px 0;
+    color: black;
+
 }
 
 .eliminate-section .hero-btns a:first-child {
@@ -70,6 +75,7 @@ body {
     background-color: red;
     padding: 25px 60px;
     border-radius: 100px;
+    font-size: 28px;
 }
 .eliminate-section .hero-btns a:last-child {
     position: relative;
@@ -79,6 +85,7 @@ body {
     padding: 25px 70px;
     border-radius: 100px;
     border: 1px solid black;
+    font-size: 28px;
 }
 
 .hero-btns {
